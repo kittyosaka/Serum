@@ -1,0 +1,63 @@
+{
+  "name": "serum",
+  "version": "1.0.2",
+  "description": "Serum is a music bot made in JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ AJais980/Serum.git"
+  },
+  "keywords": [
+    "lavalink",
+    "erela",
+    "music",
+    "bot",
+    "discord-music",
+    "discord",
+    "musicbot"
+  ],
+  "author": "Mr-x-op",
+  "license ": "MIT",
+  "bugs": "https://github.com/ AJais980/Serum/issues",
+  "homepage": "https://github.com/ AJais980/Serum#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@ksoft/api": "^3.1.9",
+    "@sapphire/discord.js-utilities": "^4.1.5",
+    "@top-gg/sdk": "^3.1.2",
+    "audit": "^0.0.6",
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2",
+    "common-tags": "^1.8.0",
+    "delay": "^5.0.0",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "erela.js": "^2.3.3",
+    "erela.js-apple": "^1.2.6",
+    "erela.js-deezer": "^1.0.7",
+    "erela.js-facebook": "^1.0.4",
+    "erela.js-spotify": "^1.2.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "genius-lyrics": "^4.2.9",
+    "image-palette": "^2.1.0",
+    "image-pixels": "^2.2.2",
+    "lavasfy": "^2.3.0",
+    "lodash": "^4.17.21",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.15",
+    "node-superfetch": "^0.2.3",
+    "pretty-ms": "^7.0.1",
+    "quickmongo": "^3.0.2",
+    "systeminformation": "^5.8.0"
+  }
+}

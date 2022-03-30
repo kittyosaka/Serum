@@ -1,0 +1,29 @@
+{
+  "prefix": "+",
+  "bot_token": "",
+  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+  "ownerID": [
+    "709169539249864775"
+  ],
+  "SpotifyID": "aece5b4d7d27426ebef592a75bd43a2c",
+  "SpotifySecret": "79a8a54525324e9aa3291eeb880ff287",
+  "mongourl": "",
+  "embedColor": "#f6ff00",
+  "logs1": "000000000000000000",
+  "logs": "000000000000000000",
+  "logs2": "000000000000000000",
+  "nodes": {
+    "id": "main",
+    "host": "lavalink.eu",
+    "port": 2333,
+    "password": "Raccoon",
+    "secure": false
+  },
+  "Webhooks": {
+    "bot_error": "",
+    "server_add": "",
+    "server_remove": "",
+    "player_create": "",
+    "player_delete": ""
+  }
+}
